@@ -8,6 +8,8 @@ I really enjoyed the challenges and the learning opportunity that came with them
 
 
 ## Installation
-To test my Javascript solution, run `node index.js` outside of `divvychallenge` folder.
+- To test my Javascript solution, run `node index.js` outside of `divvychallenge` folder.
+- To view my solution, go to `index,js`.
 
-To test my Elixir solution, `cd` into `divvychallenge` folder and run `mix test`. 
+- To test my Elixir solution, `cd` into `divvychallenge` folder and run `mix test`. 
+- To view my Elixier solution, go to `divvychallenge/lib/divvychallenge.ex`
